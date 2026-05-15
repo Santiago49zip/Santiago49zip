@@ -49,15 +49,18 @@ Disfruto aprender constantemente y profundizar en la ingeniería detrás de los 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago49zip&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago49zip&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Santiago49zip&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago49zip&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🐍 Contribuciones
 
-![snake gif](https://github.com/Santiago49zip/Santiago49zip/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Santiago49zip/Santiago49zip/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ---
 
@@ -95,7 +98,7 @@ Visualización, automatización y análisis estadístico usando Pandas, NumPy y 
 
 📧 ing.santiago.49@gmail.com
 
-💼 LinkedIn: AGREGA_TU_LINK
+💼 LinkedIn: www.linkedin.com/in/misael-santiago-guevara-hernández-a7a936244
 
 🌎 Girón, Santander - Colombia
 
